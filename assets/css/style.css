@@ -14,6 +14,13 @@
   background-color: #fff;
 }
 
+@media screen and (maxwidth:980px) {
+  .resp{
+    height: 500px;
+    width: 200px;
+  }
+}
+
 .boxed-btn {
   background: #fff;
   color: #ec5b53 !important;
