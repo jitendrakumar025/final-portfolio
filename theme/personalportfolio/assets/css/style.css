@@ -1,4 +1,19 @@
 @import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900|Rufina:400,700&amp;display=swap");
+
+
+.footer-link-bottom-border{
+  /* position: absolute; */
+  left: 0%;
+  top: auto;
+  right: 0%;
+  bottom: 0%;
+  margin-bottom: 4px;
+  height: 1px;
+  width: 120px;
+  margin-bottom: -10px;
+  background-color: #fff;
+}
+
 .boxed-btn {
   background: #fff;
   color: #ec5b53 !important;
